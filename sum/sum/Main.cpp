@@ -8,8 +8,11 @@ int main() {
 
 
 	cout << "Entrer deux valeurs a additionner" << endl;
-	cin >> val1 >> val2;
-	cout<< " = " << val1 + val2;
+	cout << "valeur 1: ";
+	cin >> val1
+	cout << endl << "valeur 2: ";
+	cin >> val2;
+	cout<< val1 << " + "<< val2 << " = " << val1 + val2;
 
 	return 0;
 }
