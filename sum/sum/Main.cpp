@@ -7,7 +7,7 @@ int main() {
 	int val2;
 
 
-	cout << "Entrer deux valeurs à additionner" << endl;
+	cout << "Entrer deux valeurs a additionner" << endl;
 	cin >> val1 >> val2;
 	cout<< " = " << val1 + val2;
 
